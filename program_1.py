@@ -11,3 +11,4 @@ def displayNow(heroNameList):
         print("%s donated $%s dollars!" % (x, currentRandNumber))
 
 displayNow(heroNameList)
+#Code written by ANTHONY T
